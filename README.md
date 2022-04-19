@@ -16,9 +16,22 @@ A collection of local, national and international GIS data resources.
 
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu/): Free remote sensing data from the Copernicus satellite programme (a.k.a Sentinel programme).  
 
-
 ## International
 
-* [ArcGIS hub](https://hub.arcgis.com/): open data from ESRI and ArcGIS users.
+* [ArcGIS hub](https://hub.arcgis.com/): huge open data hub from ESRI and ArcGIS users.
+
+## Netherlands
+
+* [PDOK](https://pdok.nl): A huge collection of official spatial datasets from the Dutch government.
+
+* [National Geo Registry](https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/home): Thousands of official spatial datasets from Dutch government agencies. 
+
+* [DANS](https://dans.knaw.nl/nl/): Scientific data hub, also with geodata. 
+
+* [CBS Geographical statistics](https://www.cbs.nl/nl-nl/reeksen/geografische-data): Geocoded data from the Dutch Bureau of Statistics, with many administrative boundaries. 
+
+* [Infrastructure open data](https://www.rijkswaterstaat.nl/zakelijk/open-data): Open data platform of the Ministry for Infrastructure.
+
+* [Oil and gas sector](https://www.nlog.nl/): Spatial datasets on oil and gas extraction. 
 
 
